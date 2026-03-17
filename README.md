@@ -12,7 +12,7 @@ Lossless Compression: Guarantees 100% data integrity upon decompression.
 
 Memory Efficiency: Optimized to minimize runtime memory usage using C++ pointers and references.
 
-Run-Length Encoding (RLE) / Custom Algorithm: (Not: Kullandığın spesifik algoritmayı buraya yazabilirsin, örneğin: Huffman Coding, LZW veya basit RLE) efficient algorithms for repetitive data patterns.
+Run-Length Encoding (RLE) / Ziv-Lempel algorithm
 
 CLI Interface: Easy-to-use command-line interface for compressing and decompressing files or strings.
 
